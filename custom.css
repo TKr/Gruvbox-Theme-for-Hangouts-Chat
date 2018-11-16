@@ -586,3 +586,8 @@ div .mUbCce:hover, div .mUbCce:focus {
     border-left: 1px solid #504945;
     border-top: 1px solid #504945;
 }
+
+/* fix scrollbar in firefox */
+.yxIv1d {
+    overflow-y: visible;
+}
